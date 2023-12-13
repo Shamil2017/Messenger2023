@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181934084339",
+    "project_id": "messanger2023-70b34",
+    "storage_bucket": "messanger2023-70b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181934084339:android:33f274e079155aa06ae786",
+        "android_client_info": {
+          "package_name": "com.example.messenger2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbEXrtm7V9RGvlqKhcljwpwXSsjTGS5J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
